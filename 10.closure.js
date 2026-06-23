@@ -65,17 +65,17 @@
 //     };
 // };
 
-//     const getcount=()=> {
+    const getcount=()=> {
     
        
-//         return count;
+        return count;
 
-//     };
-//     return{
-//         increment,
-//         decrement,
-//         getcount
-//     };
+    };
+    return{
+        increment,
+        decrement,
+        getcount
+    };
 
 //     const c1=counter();
 //     console.log(c1);
