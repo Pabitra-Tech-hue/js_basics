@@ -30,3 +30,9 @@
 //*git add <title-path>(staging area/ready state)
 // *git commit -m "<commit_message"
 // * git push origin main(git dekhi github ma push garnalai)
+
+
+// branch
+// *git branch ->list all local branches
+// git branch <branch_name> create new branch
+// git switch <branch-name>
