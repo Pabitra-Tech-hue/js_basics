@@ -40,17 +40,28 @@
 
 // *git merge <branch_name>
 //*git switch -c <branch name>
+// * git branch -d <branch_name>-> delete branch
+// *git stash 
+// *git stash pop
 
 
-function login(username, password) {
-  const storedUsername = "admin";
-  const storedPassword = "1234";
+// function login(username, password) {
+//   const storedUsername = "admin";
+//   const storedPassword = "1234";
 
-  if (username === storedUsername && password === storedPassword) {
-    console.log("Login Successful");
-  } else {
-    console.log("Invalid Username or Password");
-  }
-}
+//   if (username === storedUsername && password === storedPassword) {
+//     console.log("Login Successful");
+//   } else {
+//     console.log("Invalid Username or Password");
+//   }
+// }
 
 
+// pull request->pR
+
+
+// main ->
+// develop->integration
+// feature ->
+// fix
+// hotfix
